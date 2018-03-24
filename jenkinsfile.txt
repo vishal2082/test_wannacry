@@ -1,0 +1,20 @@
+node {
+    stage('Checkout code') {
+    // some block
+    }
+    stage('Checkout code') {
+    sh 'mvn clean compile package'
+    }
+    stage('Checkout code') {
+    // some block
+    }
+    stage('Checkout code') {
+    // some block
+    }
+    stage('Checkout code') {
+    // some block
+    }
+    stage('Checkout code') {
+    // some block
+    }
+}
